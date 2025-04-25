@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center" >
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/1269730294848815167/1365415779939385515/6c96c4b27d881ce359f374c4d6332e12.png?ex=680d3a0a&is=680be88a&hm=372af9a8c22f190543bf7d0fc0eee813c6d59003395ba8c820812964bdd5c8ed&" alt="PythonCBK" />
+</div>
+<br/>
+
+
+
+<!--## Hi there 👋-->
 
 <!--
 **pythonCBK/pythonCBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
