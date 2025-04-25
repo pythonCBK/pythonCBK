@@ -7,7 +7,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pythonCBK&Stats&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github" alt="PythonCBK" />
   <img src="https://files.catbox.moe/mpkzsz.png" width="375"  /> 
 </div>
-<br/>
 
 <div align="left">
 <h1>✨ My best projects</h1>
