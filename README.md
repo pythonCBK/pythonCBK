@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-<h1>✨ My best projects</h1>
+<h2>✨ My best projects</h2>
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonCBK&repo=catbox-client&theme=rose_pine)](https://github.com/pythonCBK/catbox-client)
