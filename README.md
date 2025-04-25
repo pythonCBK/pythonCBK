@@ -3,8 +3,9 @@
 </div>
 <br/>
 
-<div align="left" >
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pythonCBK&Stats&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github" alt="PythonCBK" />
+<div align="center" >
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pythonCBK&Stats&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github" alt="PythonCBK" />
+  <h1>🌱 READ.me Currently I am studying programming and support some of my projects. Trying to improve my skills and learn new by making new projects. If you have any project proposals pls contact me amma out of ideas.</h1>
 </div>
 
 ### 🌱 READ.me
