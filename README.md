@@ -4,7 +4,7 @@
 <br/>
 
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pythonCBK&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github) | 🌱 **Currently I am studying programming and support some of my projects.**<br><br>Trying to improve my skills and learn new by making new projects.<br><br>If you have any project proposals, pls contact me — I'm out of ideas. |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pythonCBK&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github) | 🌱 **READ.me**<br/>Currently I am studying programming and support some of my projects.Trying to improve my skills and learn new by making new projects.If you have any project proposals, pls contact me — I'm out of ideas. |
 |---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
