@@ -8,8 +8,6 @@
   <img src="https://files.catbox.moe/mpkzsz.png" width="375"  /> 
 </div>
 
-### 🌱 READ.me
-Currently I am studying programming and support some of my projects. Trying to improve my skills and learn new by making new projects. If you have any project proposals pls contact me amma out of ideas.</h3>
 <br/>
 <br/>
 
