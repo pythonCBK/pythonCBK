@@ -4,14 +4,8 @@
 <br/>
 
 
-<div align="center" style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pythonCBK&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github" width="400">
-  <div style="text-align: left; max-width: 400px;">
-    🌱 <b>Currently I am studying...</b><br><br>
-    Trying to improve...<br><br>
-    If you have any project proposals...
-  </div>
-</div>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pythonCBK&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github) | 🌱 **Currently I am studying programming and support some of my projects.**<br><br>Trying to improve my skills and learn new by making new projects.<br><br>If you have any project proposals, pls contact me — I'm out of ideas. |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
 ### 🌱 READ.me
