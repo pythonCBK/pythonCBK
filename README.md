@@ -5,7 +5,7 @@
 
 <div align="center" >
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pythonCBK&Stats&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github" alt="PythonCBK" />
-  <img src="https://files.catbox.moe/boqi35.png" width="400"  /> 
+  <img src="https://files.catbox.moe/boqi35.png" width="350"  /> 
 </div>
 
 ### 🌱 READ.me
