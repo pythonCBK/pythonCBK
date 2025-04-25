@@ -15,7 +15,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonCBK&repo=catbox-client&theme=rose_pine)](https://github.com/pythonCBK/catbox-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pythonCBK&repo=y2m-pocket&theme=rose_pine)](https://github.com/pythonCBK/y2m-pocket)
 <br/>
-<br/>
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"></a>
 <a href="https://kivymd.readthedocs.io/en/latest/" title="KiVyMD"><img src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png" alt="Python" width="40px" height="40px"></a>
