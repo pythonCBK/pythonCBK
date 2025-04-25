@@ -3,18 +3,8 @@
 </div>
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=pythonCBK&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github" alt="PythonCBK" /></td>
-      <td>
-        <h3>🌱 Currently I am studying programming and support some of my projects.</h3>
-        <p>Trying to improve my skills and learn new by making new projects.</p>
-        <p>If you have any project proposals, pls contact me — I'm out of ideas.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pythonCBK&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github) | 🌱 **Currently I am studying programming and support some of my projects.**<br><br>Trying to improve my skills and learn new by making new projects.<br><br>If you have any project proposals, pls contact me — I'm out of ideas. |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### 🌱 READ.me
 Currently I am studying programming and support some of my projects. Trying to improve my skills and learn new by making new projects. If you have any project proposals pls contact me amma out of ideas.</h3>
