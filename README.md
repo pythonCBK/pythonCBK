@@ -19,6 +19,7 @@
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"></a>
 <a href="https://kivymd.readthedocs.io/en/latest/" title="KiVyMD"><img src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png" alt="Python" width="40px" height="40px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
+<a href="https://www.adobe.com/products/photoshop.html" title="Adobe PhotoShop"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="Adobe PhotoShop" width="40px" height="40px"></a>
 
 <!--
 **pythonCBK/pythonCBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
