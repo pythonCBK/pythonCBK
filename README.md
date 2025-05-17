@@ -20,7 +20,7 @@
 <a href="https://kivymd.readthedocs.io/en/latest/" title="KiVyMD"><img src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png" alt="Python" width="40px" height="40px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe PhotoShop"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="Adobe PhotoShop" width="40px" height="40px"></a>
-<a href="https://docs.disnake.dev/en/latest/index.html" title="Disnake"><img src="https://files.catbox.moe/dzx77j.png" alt="Disnake" width="40px" height="40px"></a>
+<a href="https://docs.disnake.dev/en/latest/index.html" title="Disnake"><img src="https://files.catbox.moe/dzx77j.png" alt="Disnake" width="40px" height="50px"></a>
 
 <!--
 **pythonCBK/pythonCBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
