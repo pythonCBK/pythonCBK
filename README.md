@@ -19,15 +19,6 @@ FFmpeg Studio is a simple in use tool which uses FFmpeg and allows to quickly an
   <img src="https://media.discordapp.net/attachments/1350892543033872515/1529867075605237760/image.png?ex=6a637f3e&is=6a622dbe&hm=8383e293978776342ab8112b696f4222f895268fcc40644943ab695ae7239ed3&=&format=webp&quality=lossless&width=1190&height=853" alt="Interface Screenshot" width="750" heigh="400">
 </p>
 
-## 🧾**How to?**
-If you want to work with source code make sure that **Python** is installed. You also need to install Qt for Python with this command:
-
-```python
-pip install pyside6-tools
-```
-If you experinece any problems with FFmpeg you should downoad it from [the oficiall website.](https://www.ffmpeg.org/)
-
-
 <!--
 **pythonCBK/pythonCBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
