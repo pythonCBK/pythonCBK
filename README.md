@@ -6,10 +6,6 @@
 > Project is under development and has bugs that need to be fixed! I'm trying to fix them all as early as possible! <br>
 > Also, code is pretty messy TwT. Thank you for understanding!
 
-> **FFmpeg** <br>
-> FFmpeg is bundled with this application. FFmpeg is licensed under the LGPL/GPL. See the LICENSE file for details.
-______________  
-
 <!--
 **pythonCBK/pythonCBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
