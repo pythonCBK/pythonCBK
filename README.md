@@ -10,15 +10,6 @@
 > FFmpeg is bundled with this application. FFmpeg is licensed under the LGPL/GPL. See the LICENSE file for details.
 ______________  
 
-
-## 📖**Information**
-FFmpeg Studio is a simple in use tool which uses FFmpeg and allows to quickly and easily work with media files.
-<br><br>
-<sub>App interface.</sub>
-<p align="left">
-  <img src="https://media.discordapp.net/attachments/1350892543033872515/1529867075605237760/image.png?ex=6a637f3e&is=6a622dbe&hm=8383e293978776342ab8112b696f4222f895268fcc40644943ab695ae7239ed3&=&format=webp&quality=lossless&width=1190&height=853" alt="Interface Screenshot" width="750" heigh="400">
-</p>
-
 <!--
 **pythonCBK/pythonCBK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
