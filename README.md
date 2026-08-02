@@ -1,6 +1,6 @@
 ## Check out FFmpeg Studio
 
-![Logo](https://cdn.discordapp.com/attachments/1350892543033872515/1530209374319153162/logosmall.png?ex=6a64be08&is=6a636c88&hm=26e0459643334081bea0189f43a700ce2f67cb1ef0d2064ce7b7f94d39571e92&)
+![Logo](https://media.discordapp.net/attachments/1350892543033872515/1530209374319153162/logosmall.png?ex=6a709b88&is=6a6f4a08&hm=c1f8a1af5dc03e720f33d377eefea8dc606df1876704ad16eab361336ad8b475&=&format=webp&quality=lossless&width=499&height=159)
 
 > **Attention** <br>
 > Project is under development and has bugs that need to be fixed! I'm trying to fix them all as early as possible! <br>
